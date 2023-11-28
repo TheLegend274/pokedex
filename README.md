@@ -1,1 +1,2 @@
 # pokedex
+Created a Pokedex using the PokeApi. Used at least 600 Pokemon from the pokeAPI and displayed them. There is a search function to find the Pokemon you want by name or number. Shows what type of Pokemon (fire, water, grass, fighting). Shows the stats of the Pokemon such as the ATK, HP, DEF, SPD, etc. Look below for images:<img width="1680" alt="Screenshot 2023-11-28 at 6 11 04 PM" src="https://github.com/TheLegend274/pokedex/assets/125936934/abe2de4a-8e35-4c65-ad4d-673040a74850">
